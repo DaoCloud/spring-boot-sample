@@ -4,7 +4,7 @@ mvn package
 
 # Target file
 
-target/spring-boot-admin-ui-0.0.1-SNAPSHOT.war
+target/spring-boot-sample-0.0.1-SNAPSHOT.war
 
 # Usage
 
