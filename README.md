@@ -1,15 +1,16 @@
-# How to build
+# Spring-bo0t-sample
+## How to build
 
 mvn package
 
-# Target file
+## Target file
 
 target/spring-boot-sample-0.0.1-SNAPSHOT.war
 
-# Usage
+## Usage
 
 http://127.0.0.1:8080
 
-# Spring Boot Admin
+## Spring Boot Admin
 
 https://github.com/codecentric/spring-boot-admin
